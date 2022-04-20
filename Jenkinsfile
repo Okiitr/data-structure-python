@@ -14,7 +14,7 @@ ls
 
         stage('1stp') {
           steps {
-            sh '''python3 prime.py
+            sh '''echo hello world
 '''
           }
         }
