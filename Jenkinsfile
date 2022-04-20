@@ -26,7 +26,7 @@ ls
       steps {
         sh '''pwd 
 ls
-python3 palindrome.py'''
+'''
       }
     }
 
